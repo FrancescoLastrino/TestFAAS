@@ -1,5 +1,6 @@
 # serverless.yml
 
+app: aws-python
 # Service name
 service: test
 
