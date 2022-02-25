@@ -1,5 +1,5 @@
 service: test # NOTE: update this with your service name
-
+app: aws-python
 frameworkVersion: '3'
 
 provider:
