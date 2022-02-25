@@ -1,9 +1,9 @@
-service: aws-python # NOTE: update this with your service name
+service: test # NOTE: update this with your service name
 
 frameworkVersion: '3'
 
 provider:
-  name: test
+  name: aws-python
   runtime: python3.8
 
 functions:
